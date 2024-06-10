@@ -1,13 +1,8 @@
-### <div align="center">I am Dealite, a freelance backend developer 👨‍💻 in programming since 2022. 🚀</div>  
+Hello! My name is Dealite 🌑
+========================================================================================================================================
 
-- 🔭 I am currently working on a [Financial Discord Bot](https://sandman-bot.space/)  
-  
-
-- 🌱 I am currently studying vue for js  
-  
-
-<br/>  
-
+I am Dealite, a freelance backend developer 👨‍💻 in programming since 2022. 🚀
+<br/>
 
 ### Skills
 
@@ -18,3 +13,4 @@
 <a href="https://t.me/decapuccino">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </a>
+
