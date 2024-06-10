@@ -1,7 +1,7 @@
 Hello! My name is Dealite 🌑
 ========================================================================================================================================
 
-I am Dealite, a freelance backend developer 👨‍💻 in programming since 2022. 🚀
+🍪  I am freelance backend developer 👨‍💻 in programming since 2022. 🚀
 <br/>
 
 ### Skills
@@ -10,11 +10,8 @@ I am Dealite, a freelance backend developer 👨‍💻 in programming since 202
 
 ### Socials
 
-<a href="https://github.com/Knazzev">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-</a>
-&nbsp;&nbsp;&nbsp;
 <a href="https://t.me/decapuccino">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </a>
+
 
