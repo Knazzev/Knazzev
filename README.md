@@ -1,7 +1,7 @@
-Hello! My name is Dealite 🌑
+Hello! My name is Dealite 🍪
 ========================================================================================================================================
 
-🍪  I am freelance backend developer 👨‍💻 in programming since 2022. 🚀
+I am freelance backend developer 👨‍💻 in programming since 2022. 🚀
 <br/>
 
 ### Skills
