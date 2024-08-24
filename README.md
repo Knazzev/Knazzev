@@ -8,6 +8,8 @@ I am a freelance backend developer 👨‍💻 have been doing programming for s
 
 [![My Skills](https://skillicons.dev/icons?i=html,css)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,py)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=vue,mysql)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=discord)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/>
 
+###Snake 
+
 ![Hamster](assets/snake_github.svg)
 
 ### Socials
